@@ -1,7 +1,5 @@
 ## Basc React App to search from a list of pokemons.
 
-### Live Demo: alik0211.github.io/pokedex/
-
 ## App Description
 
 This project was bootstrapped with Create React App.
